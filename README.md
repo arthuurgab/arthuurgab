@@ -2,10 +2,10 @@
 
 Meu nome é Arthur Gabriel Vieira...
 
-📚 Sistemas de Informação - Unoesc (Cursando)
-💻 Programador Web
-👨‍💻 Escrevo códigos em Python, JavaScript, Css, Html...
-🌐 Redes (Nível Básico)
+📚 Sistemas de Informação - Unoesc (Cursando) <br>
+💻 Programador Web <br>
+👨‍💻 Escrevo códigos em Python, JavaScript, Css, Html... <br>
+🌐 Redes (Nível Básico) <br>
 
 ## Redes Sociais
 
@@ -21,6 +21,8 @@ Meu nome é Arthur Gabriel Vieira...
   </a>
 </div>
 
+## Algumas Ferramentas
+
 <div>
    <code><img height= "20"src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
    <code><img height= "20"src= "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></code>
@@ -28,5 +30,5 @@ Meu nome é Arthur Gabriel Vieira...
    <code><img height= "20"src= "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
    <code><img height= "20"src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
 </div>
-
+<br>
 ![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=arthuurgab&show_icons=true&theme=merko)
