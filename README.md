@@ -30,5 +30,5 @@ Meu nome é Arthur Gabriel Vieira...
    <code><img height= "20"src= "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
    <code><img height= "20"src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
 </div>
-<br>
+
 ![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=arthuurgab&show_icons=true&theme=merko)
