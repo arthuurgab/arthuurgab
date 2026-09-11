@@ -1,4 +1,6 @@
-# 🌐 "Hello World" 
+```typescript
+print('Hello World!')
+```
 
 Guys. Welcome my Github Profile, I call myself Arthur Gabriel a Brazilian Backend Developer passionate about software and web development. I’m constantly learning and evolving, exploring new technologies and areas to grow as a developer. 
 
@@ -14,7 +16,7 @@ Let’s build something together! 🚀
 - **Websites, Dashboards & System Integrations**
 
 ## 🛠 Technologies & Tools
-- Languages: Node.js / JavaScript / TypeScript / Python / Jquery
+- Languages: Node.js / JavaScript / TypeScript / Python
 - Frameworks: Express.js / Sequealize / Expo / Django 
 - Databases: PostgreesSQL / MongoDB / MySQL
 - DevOPS: Git / GitHub Actions
