@@ -10,7 +10,7 @@ Let’s build something together! 🚀
 <a href = "mailto:rochaarthur060@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
-![Areas of Activity](./gifs/arthuurgab_areas_of_activity.gif)
+![Areas of Activity](./Gifs/arthuurgab_areas_of_activity.gif)
 
 <p align="center">
   <img src="./gifs/arthuurgab_areas_of_activity.gif" alt="Areas of Activity">
